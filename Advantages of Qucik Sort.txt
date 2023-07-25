@@ -1,0 +1,27 @@
+
+
+Conclusion:
+Strengths of QuickSort:
+	
+	*Efficient average-case performance:QuickSort is known for its excellent average-case time complexity, 
+	which is O(n log n). This makes it one of the fastest sorting algorithms for large datasets on average.
+	
+	*Low memory usage: QuickSort is an in-place sorting algorithm, meaning it doesn't require additional memory proportional
+	 to the size of the input. 
+	
+	*Simplicity of implementation: QuickSort's recursive nature and intuitive partitioning scheme make it relatively easy to 
+	 understand and implement compared to some other sorting algorithms.
+
+Weaknesses of QuickSort:
+
+	*Pivot selection overhead: The performance of QuickSort is sensitive to the choice of the pivot element. 
+	 If the pivot selection is poorly done, it can lead to suboptimal partitions and reduce the algorithm's efficiency.
+
+	*Non-stable sort: QuickSort is not a stable sorting algorithm. This means that the relative order of equal elements
+	 may change after sorting, which can be an issue in certain applications.
+
+Comparison of Quick Sort and Merge Sort:
+
+	*Time has Taken for quciksort is 0.466 Milliseconds. But for Merge Sort it has taken 0.7566 Milliseconds.
+	Compare than merge sort quick sort taken less time to run and accuracy of that sorting is very simple,Best Use Cases,
+	Stability and space complexity is best approaches of qucik Sort.
