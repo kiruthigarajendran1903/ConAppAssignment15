@@ -1,0 +1,8 @@
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\bin\Debug\ConAppAssignment15.exe.config
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\bin\Debug\ConAppAssignment15.exe
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\bin\Debug\ConAppAssignment15.pdb
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\obj\Debug\ConAppAssignment15.csproj.AssemblyReference.cache
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\obj\Debug\ConAppAssignment15.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\obj\Debug\ConAppAssignment15.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\obj\Debug\ConAppAssignment15.exe
+D:\SimpliLearn\Day-12\ConAppAssignment15\ConAppAssignment15\obj\Debug\ConAppAssignment15.pdb
